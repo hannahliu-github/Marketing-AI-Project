@@ -12,5 +12,3 @@ We use the marketing data to train binary classification machine learning models
 
 We experimented with 3 different machine learning models: logistic regression, naive Bayes and random forest. In each case the models' ad recommendations **significantly outperformed the best individual ad, nearly doubling the acceptance rate** on a hold-out sample.  Among the 3 model alternatives, we found that **random forest was consistently most accurate in predicting individual ad acceptance and produced the highest acceptance rate**. 
 
-Final presentation slides:
-<embed src="Business Analytics Project Mgmt Final Presentation.pdf" type="application/pdf" height="550px" width="900px">
